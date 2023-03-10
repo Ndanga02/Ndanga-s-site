@@ -171,10 +171,12 @@ h1{margin-top: 50px;
     text-align: center;
   }
 
-  .prfimg {
-    width: 40%;
-    margin-bottom: 1rem;
-  }
+  
+   .prfimg {
+  max-width: 100%;
+}
+
+  
 
   .Work.Experience {
     padding: 2%;
